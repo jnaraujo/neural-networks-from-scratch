@@ -3,7 +3,7 @@ module nnfs
 go 1.22.3
 
 require (
-	github.com/jnaraujo/numgo v0.1.0
+	github.com/jnaraujo/numgo v0.3.0
 	github.com/stretchr/testify v1.9.0
 )
 
